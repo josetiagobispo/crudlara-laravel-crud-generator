@@ -15,7 +15,7 @@
 
         ],
         "psr-4": {
-            "mavvilabs\\crudlara\\": "src/"
+            "Mavvilabs\\Crudlara\\": "src/"
         }
     }
 }
