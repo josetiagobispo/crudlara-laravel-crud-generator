@@ -1,7 +1,7 @@
 <?php
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
-class CreateTagsTable extends Migration
+class CreateCrudlaraTable extends Migration
 {
     /**
      * Run the migrations.
