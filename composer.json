@@ -15,7 +15,7 @@
 
         ],
         "psr-4": {
-            "mavvilabs\\laravel-crud-generator\\": "src/"
+            "mavvilabs\\crudlara\\": "src/"
         }
     }
 }
