@@ -1,10 +1,10 @@
 {
     "name": "mavvilabs/crudlara",
-    "description": "Gera crud para aplicações laravel",
+    "description": "Gerar crud para aplicações laravel",
     "authors": [
         {
             "name": "jose tiago",
-            "email": "josetiagobsouza2gmail.com"
+            "email": "josetiagobsouza@gmail.com"
         }
     ],
     "minimum-stability": "dev",
