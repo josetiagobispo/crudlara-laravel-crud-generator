@@ -1,0 +1,21 @@
+{
+    "name": "mavvilabs/crudlara",
+    "description": "Gera crud para aplicações laravel",
+    "authors": [
+        {
+            "name": "jose tiago",
+            "email": "josetiagobsouza2gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "classmap":[
+            "src/migrations"
+
+        ],
+        "psr-4": {
+            "mavvilabs\\laravel-crud-generator\\": "src/"
+        }
+    }
+}

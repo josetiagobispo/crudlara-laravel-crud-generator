@@ -1,0 +1,4 @@
+php artisan vendor:publish
+
+adicionar config/app.php
+ Mavvilabs\Crudlara\CrudLaraServiceProvider::class,
